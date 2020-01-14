@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21818BC6-96EF-4803-90C7-0C240157A418}"
 	ProjectSection(SolutionItems) = preProject
-		2020\Inv-Vault-Sample-Materials & Default.7z = 2020\Inv-Vault-Sample-Materials & Default.7z
-		2020\Inv-Vault-Sample-Materials-Disclaimer.txt = 2020\Inv-Vault-Sample-Materials-Disclaimer.txt
-		2020\Material Browser - Sample Library.png = 2020\Material Browser - Sample Library.png
+		Inv-Vault-Sample-Materials & Default.7z = Inv-Vault-Sample-Materials & Default.7z
+		Inv-Vault-Sample-Materials-Disclaimer.txt = Inv-Vault-Sample-Materials-Disclaimer.txt
+		Material Browser - Sample Library.png = Material Browser - Sample Library.png
 		README.md = README.md
 	EndProjectSection
 EndProject
