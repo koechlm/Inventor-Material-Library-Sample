@@ -5,22 +5,15 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21818BC6-96EF-4803-90C7-0C240157A418}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{CFD54D51-9755-4E36-9757-648AE9CA9C42}"
-	ProjectSection(SolutionItems) = preProject
 		2020\Inv-Vault-Sample-Materials & Default.7z = 2020\Inv-Vault-Sample-Materials & Default.7z
 		2020\Inv-Vault-Sample-Materials-Disclaimer.txt = 2020\Inv-Vault-Sample-Materials-Disclaimer.txt
-		..\..\..\OneDrive - autodesk\Pictures\Inventor Material Sample Library\Material Browser - Sample Library.png = ..\..\..\OneDrive - autodesk\Pictures\Inventor Material Sample Library\Material Browser - Sample Library.png
+		2020\Material Browser - Sample Library.png = 2020\Material Browser - Sample Library.png
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{CFD54D51-9755-4E36-9757-648AE9CA9C42} = {21818BC6-96EF-4803-90C7-0C240157A418}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {60472F83-118E-44E5-B481-CE1E8390DAD3}
