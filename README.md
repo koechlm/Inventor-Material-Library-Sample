@@ -9,7 +9,8 @@ Download the package Inv-Vault-Sample-Materials & Default.7z and Disclaimer Inv-
 Note - You will need to read and accept the disclaimer to extract the package content.
 
 Version Information:
-Initial Release for Inventor 2020
+2020.0.1 - Updated Material Properties for POM/Delrin150
+2020.0.0 - Initial Release for Inventor 2020
 
 
 Sincerely,
