@@ -1,0 +1,7 @@
+Disclaimer
+
+In any case all data tables and values of this sample library is of "work in progress" and "customization sample" character. 
+Neither Markus Koechl nor Autodesk represents that theses samples are reliable, accurate, complete, or otherwise valid. 
+Accordingly, those configuration samples are provided “as is” with no warranty of any kind and you use the applications at your own risk.
+
+Applying the password "7&EKcYB@Q992n3" to extract the zip file, you confirmed having read, understood, and accepted this disclaimer.

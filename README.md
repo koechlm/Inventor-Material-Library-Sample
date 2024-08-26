@@ -9,6 +9,7 @@ Download the package Inv-Vault-Sample-Materials & Default.7z and Disclaimer Inv-
 Note - You will need to read and accept the disclaimer to extract the package content.
 
 Version Information:
+2025.0.0 - Inventor 2021 - 2025 compatible version; added PE UHMW material, aligned naming conventions
 2021.0.0 - Inventor 2021 version; multiple corrections on material's density. New materials for fastener strength classification.
 2020.0.1 - Updated Material Properties for POM/Delrin150
 2020.0.0 - Initial Release for Inventor 2020
